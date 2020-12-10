@@ -1,4 +1,6 @@
-# red-manager
+# red
+
+Red dot notification management module based on tree structure
 
 基于树结构的红点通知管理模块。
 
